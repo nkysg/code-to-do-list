@@ -7,3 +7,4 @@ write code
 3.a python or shell Gluttonous Snake(todo)
 4.write a shell for mongodb(todo)
 5.translate a txt to md(todo)
+6.print a lua table like php in print_r
