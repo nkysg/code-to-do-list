@@ -10,3 +10,4 @@ write code
 6.print a lua table like php in print_r
 7.in lua how to use curl,like curl in python
 8.lua,php or python open source code
+9.vimer,smallfish,yiyun,nashui,yufeng zhangyan open source to write
