@@ -11,3 +11,4 @@ write code
 8.lua,php or python open source code
 9.vimer,smallfish,yiyun,nashui,yufeng zhangyan open source to write
 10.do a oj program
+11.24 game,lianlian kan ,e luosi fangkuai
